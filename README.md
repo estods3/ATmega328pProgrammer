@@ -1,7 +1,8 @@
 # ATmega328pProgrammer
 A Schematic and PCB Design for an Arduino Nano based ATmega328p/Arduino Programmer
 
-[<img src="https://github.com/estods3/ATmega328pProgrammer/blob/main/photos/programmer_pcb.png" title="Arduino Programmer" alt="drawing" width="300"/>](https://github.com/estods3/ATmega328pProgrammer)
+[<img src="https://github.com/estods3/ATmega328pProgrammer/blob/main/photos/programmer_pcb.png" title="Arduino Programmer" alt="drawing" width="500"/>](https://github.com/estods3/ATmega328pProgrammer)
+[<img src="https://github.com/estods3/ATmega328pProgrammer/blob/main/photos/BuiltProgrammer.jpg" title="Arduino Programmer (Built)" alt="drawing" width="300"/>](https://github.com/estods3/ATmega328pProgrammer)
 
 ## Steps
 
